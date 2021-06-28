@@ -1,1 +1,2 @@
-读者：车力格尔
+Git is a distributed version control system.
+Git is free software.
